@@ -24,10 +24,3 @@ in a Bakery Store**](https://github.com/sesiliavk/customer-purchase-analysis-bak
 - 📊 [**Skin Disease Classification Using Deep Learning-Based Computer Vision**](https://github.com/sesiliavk/skin-disease-classification) — Skin disease classification using deep learning-based computer vision, designed to detect five skin conditions from facial images.
 
 > Explore more on my [GitHub repositories](https://github.com/sesiliavk?tab=repositories).
-
----
-
-## 📫 Contact Me
-
-- 💼 [LinkedIn](www.linkedin.com/in/sesilia-virdha-kezia-4a43a92b2)
-- ✉️ Email: sesilia.kezia@gmail.com
