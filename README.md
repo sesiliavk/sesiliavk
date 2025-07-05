@@ -1,8 +1,7 @@
 # Sesilia Virdha Kezia - Data Analyst / Data Scientist
 ## Hi there 👋
 
-I’m **Sesilia Virdha Kezia**, a future data scientist and analyst who is enthusiastic about using data to uncover insights and address practical issues.   
-I like working with data visualization, data analysis, data cleaning, and predictive model development to aid in decision-making.
+I’m **Sesilia Virdha Kezia**, a future data scientist and analyst who is enthusiastic about using data to uncover insights and address practical issues. I like working with data visualization, data analysis, data cleaning, and predictive model development to aid in decision-making.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,9 +17,10 @@ I like working with data visualization, data analysis, data cleaning, and predic
 
 Here are some projects I’ve worked on recently:
 
-- 💡 [**Project 1**](link_project1) — [Deskripsi singkat project]
+- 📊 **Project 1**(link_project1) — [Deskripsi singkat project]
 - 📊 [**Project 2**](link_project2) — [Deskripsi singkat project]
-- 🚀 [**Project 3**](link_project3) — [Deskripsi singkat project]
+- 📊 [**Project 3**](link_project3) — [Deskripsi singkat project]
+- 📊
 
 > Explore more on my [GitHub repositories](https://github.com/[username]?tab=repositories).
 
