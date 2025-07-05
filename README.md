@@ -12,29 +12,22 @@ I’m **Sesilia Virdha Kezia**, a future data scientist and analyst who is enthu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
 
 ## 🧰 Projects
 
 Here are some projects I’ve worked on recently:
 
-- 📊 **Project 1**(link_project1) — [Deskripsi singkat project]
-- 📊 [**Project 2**](link_project2) — [Deskripsi singkat project]
-- 📊 [**Project 3**](link_project3) — [Deskripsi singkat project]
-- 📊
+- 📊 [**Customer Purchase Behavior Analysis for Data-Driven Promotion Strategy 
+in a Bakery Store**](https://github.com/sesiliavk/customer-purchase-analysis-bakery) — Analysis of customer transaction data to understand purchasing behavior and develop data-driven promotion strategies for a bakery store.
+- 📊 [**Airbnb Rental Price Prediction in Amsterdam**](https://github.com/sesiliavk/airbnb-rental-price-prediction) — Predicting Airbnb rental prices in Amsterdam using regression-based machine learning models to help property owners set optimal prices and support data-driven decisions.
+- 📊 [**Skin Disease Classification Using Deep Learning-Based Computer Vision**](https://github.com/sesiliavk/skin-disease-classification) — Skin disease classification using deep learning-based computer vision, designed to detect five skin conditions from facial images.
 
-> Explore more on my [GitHub repositories](https://github.com/[username]?tab=repositories).
+> Explore more on my [GitHub repositories](https://github.com/sesiliavk?tab=repositories).
 
 ---
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/[username]/)
-- ✉️ Email: [email kamu]
-- 🌐 [Website/Portfolio](https://link_portfolio_jika_ada)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sesiliavk&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesiliavk&layout=compact&theme=tokyonight" alt="langs"/>
-</p>
+- 💼 [LinkedIn](www.linkedin.com/in/sesilia-virdha-kezia-4a43a92b2)
+- ✉️ Email: sesilia.kezia@gmail.com
