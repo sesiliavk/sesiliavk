@@ -14,6 +14,17 @@ I’m **Sesilia Virdha Kezia**, a future data scientist and analyst who is enthu
 
 ---
 
+## 🛠️ Tech Stack
+
+| Skill Category | Tools |
+|----------------|-------|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Data Tools** | ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white) |
+| **ML / DL** | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) |
+
+---
+
 ## 🧰 Projects
 
 Here are some projects I’ve worked on recently:
