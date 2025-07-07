@@ -16,12 +16,16 @@ I’m **Sesilia Virdha Kezia**, a future data scientist and analyst who is enthu
 
 ## 🛠️ Tech Stack
 
-| Skill Category | Tools |
-|----------------|-------|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Data Tools** | ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white) |
-| **ML / DL** | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) |
+| Category           | Tools & Technologies |
+|--------------------|----------------------|
+| **Programming**     | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Data Analysis**   | ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FFB300?style=flat&logo=alteryx&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) |
+| **Machine Learning / DL** | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EC6B23?style=flat&logo=none&logoColor=white) |
+| **Visualization**   | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3C4E6C?style=flat&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat&logo=elastic&logoColor=white) |
+| **Data Engineering**| ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Deployment / Apps**| ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black) |
+| **Databases**       | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) |
+
 
 ---
 
